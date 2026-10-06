@@ -21,7 +21,7 @@ import java.util.function.Function;
 public class RegistryLimitsService {
 
     // FIXME improve error messages
-    private static final String MAX_TOTAL_SCHEMAS_EXCEEDED_MSG = "Maximum number of artifact versions exceeded";
+    private static final String MAX_TOTAL_SCHEMAS_EXCEEDED_MSG = "Maximum number of total schemas exceeded";
     private static final String MAX_SCHEMA_SIZE_EXCEEDED_MSG = "Maximum size of artifact version exceeded";
     private static final String MAX_ARTIFACTS_EXCEEDED_MSG = "Maximum number of artifacts exceeded";
     private static final String MAX_VERSIONS_PER_ARTIFACT_EXCEEDED_MSG = "Maximum number of versions exceeded for this artifact";
